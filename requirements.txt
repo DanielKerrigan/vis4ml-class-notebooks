@@ -7,4 +7,5 @@ bokeh
 seaborn
 pandas
 numpy
+pmlb
 notebook
