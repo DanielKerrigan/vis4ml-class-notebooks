@@ -1,6 +1,5 @@
 # Additions
 data
-digits
 mnist.csv
 .DS_Store
 
