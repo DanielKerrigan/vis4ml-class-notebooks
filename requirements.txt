@@ -1,10 +1,7 @@
 scikit-learn
-altair
+altair >= 5
 vega_datasets
 matplotlib
-plotly
-bokeh
-seaborn
 pandas
 numpy
 pmlb
